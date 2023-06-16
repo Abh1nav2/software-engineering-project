@@ -1,0 +1,92 @@
+{
+  "details":{
+    "storing_user_details_of": ["Students", "Faculty", "Admin"],
+    "for_semester": 6
+  },
+  "table": [
+    {
+      "email":"admin@cb.students.amrita.edu",
+      "name": "Admin",
+      "rollno":"CB.ADMIN",
+      "password":"root",
+      "usertype":"admin",
+      "section":"",
+      "classroom":"",
+      "elective1":"",
+      "elective2":"",
+      "advicers":""
+    },
+    {
+      "email":"cb.en.u4cse20201@cb.students.amrita.edu",
+      "name": "Abhinav",
+      "rollno":"CB.EN.U4CSE20201",
+      "password":"201",
+      "usertype":"student",
+      "section":"C",
+      "classroom":"C104",
+      "elective1":"19CSE446",
+      "elective2":"19CSE456",
+      "advicers":"g_radhika@cb.amrita.edu, v_ananthanarayanan@cb.amrita.edu"
+    },
+    {
+      "email":"N_radhika@cb.amrita.edu",
+      "name": "N Radhika",
+      "rollno":"CB.FACULTY.1",
+      "password":"software",
+      "usertype":"faculty",
+      "section":"",
+      "classroom":"",
+      "elective1":"",
+      "elective2":"",
+      "advicers":""
+    },
+    {
+      "email":"cb.en.u4cse20242@cb.students.amrita.edu",
+      "name": "Nandhakumar",
+      "rollno":"CB.EN.U4CSE20242",
+      "password":"242",
+      "usertype":"student",
+      "section":"C",
+      "classroom":"C104",
+      "elective1":"19CSE446",
+      "elective2":"19CSE456",
+      "advicers":"g_radhika@cb.amrita.edu, v_ananthanarayanan@cb.amrita.edu"
+    },
+    {
+      "email":"cb.en.u4cse20204@cb.students.amrita.edu",
+      "name": "Akash",
+      "rollno":"CB.EN.U4CSE20204",
+      "password":"204",
+      "usertype":"student",
+      "section":"C",
+      "classroom":"C104",
+      "elective1":"19CSE446",
+      "elective2":"19CSE456",
+      "advicers":"g_radhika@cb.amrita.edu, v_ananthanarayanan@cb.amrita.edu"
+    },
+    {
+      "email":"cb.en.u4cse20259@cb.students.amrita.edu",
+      "name": "Shriram",
+      "rollno":"CB.EN.U4CSE20259",
+      "password":"259",
+      "usertype":"student",
+      "section":"C",
+      "classroom":"C104",
+      "elective1":"19CSE446",
+      "elective2":"19CSE456",
+      "advicers":"g_radhika@cb.amrita.edu, v_ananthanarayanan@cb.amrita.edu"
+    },
+    {
+      "email":"cb.en.u4cse20257@cb.students.amrita.edu",
+      "name": "Abdul",
+      "rollno":"CB.EN.U4CSE20257",
+      "password":"257",
+      "usertype":"student",
+      "section":"C",
+      "classroom":"C104",
+      "elective1":"19CSE352",
+      "elective2":"19CSE353",
+      "advicers":"g_radhika@cb.amrita.edu, v_ananthanarayanan@cb.amrita.edu"
+    }
+  ]
+}

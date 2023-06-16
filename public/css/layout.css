@@ -1,0 +1,213 @@
+
+#container{
+  width:100%;height:100%;
+  display:grid;position:relative;
+  grid-template-rows: 42px min-content auto;
+  grid-template-columns: 50px auto;
+  grid-template-areas: "profile profile"
+                       "navbar header"
+                       "navbar main";
+  overflow:auto;
+  background-image:url("https://cdn.glitch.global/13adfb5b-b8cd-4367-a6c4-4deb15b4aee7/low-poly-grid-haikei%20(1).svg?v=1685083536623");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#container > nav{grid-area:navbar;
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  align-items:center;
+  text-align:center;
+  background: #000000;
+  padding-block: 15px;
+  border-radius: 20px;
+  margin-left: 5px;
+}
+#container > aside{
+  grid-area:profile;
+  display:grid;
+  grid-template-columns:50px auto;  
+}
+#container > aside > span:nth-child(1){
+  border-radius: 50%;
+  background: transparent;
+}
+
+#container > aside > span:nth-child(2){
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding-left:25px;
+}
+
+#container > header{
+  grid-area:header;
+  font-size: clamp(1rem, 3vw + 1rem, 3rem);
+}
+#container > main{
+  position:relative;
+  grid-area:main;
+  overflow:auto;
+  
+  display: grid;
+  grid-template-rows: min-content auto;
+}
+
+#container > main > article{
+  display: flex;
+  flex-wrap: wrap;
+    justify-content: center;
+  align-content: flex-start;
+  
+  
+  gap: 10px;
+  padding:10px;
+  padding-top: 20px;
+  overflow:auto;
+}
+#container > main > article > div{
+  width: 45%;
+  aspect-ratio: 1;
+  background: linear-gradient(180deg, var(--theme), transparent);
+  flex-shrink: 0;
+  border-radius:15px;
+  backdrop-filter: blur(1px);
+}
+
+
+@media (width >= 600px) {
+  
+  #container{
+    grid-template-rows: 120px auto;
+    grid-template-columns: 60px 3fr 2fr;
+    grid-template-areas: "navbar header profile"
+                         "navbar main main";
+  }
+  
+  #container > aside{
+    grid-template-columns:80px auto;
+    padding: 20px;
+/*     padding-left: 30px; */
+  }
+  #container > aside > span:nth-child(1){
+    border-radius: 50%;
+    background: var(--theme);
+  }
+  #container > aside > span:nth-child(2){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:10px;
+    font-size:1rem;
+    align-items:flex-start;
+    gap:2px;
+  }
+  #container > aside li{
+    list-style:none;
+  }
+  #container > main{
+    display:grid;
+    grid-template-rows: auto;
+    grid-template-columns: 3fr 2fr;
+    overflow:hidden;
+  }
+  
+  #container > main > article > div{
+/*     width: 30%; */
+    width: clamp(100px,30%,200px);
+    aspect-ratio: 1;
+    flex-shrink: 0;
+  }
+  
+  #createUserForm{
+    padding-inline: 20%;
+  }
+}
+
+#container > main > section{
+  width:calc(100% - 40px);
+  margin-left:20px;
+  padding:10px;
+  margin-top: 20px;
+  background: linear-gradient(var(--theme), transparent 99%);
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  backdrop-filter: blur(5px);
+}
+
+
+#display{
+  position:absolute;
+  top:0;left:0;
+  width:100%;height:100%;
+  
+  padding-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:0;
+/*   display:none; */
+  transform:scale(0);
+  transition: 200ms all;
+}
+#display.active{display:block;transform:scale(1);}
+
+#display .displayWrapper{
+  width:100%;height:100%;
+/*   background: linear-gradient(var(--theme), black); */
+  background: linear-gradient(var(--theme), transparent); backdrop-filter:blur(5px);
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  position:relative;
+  overflow: auto;
+  padding-bottom: 10px;
+}
+
+.displayWrapper .cancelBtn{
+  position:absolute;
+  top:8px;right:8px;
+  font-size:1.8rem;
+  color: var(--fontColor);
+  opacity: .7;
+  cursor:pointer;
+}
+
+
+#passwordReset{
+  position:fixed;
+  top:0;left:0;
+  width:100%;height:100%;
+  background: var(--theme);
+  display:none;
+}
+
+
+#passwordReset.active{
+  display:block;
+}
+
+#mailContainer{
+  --navWidth: 0px;
+  position:fixed;
+  width: calc(100% - var(--navWidth) - 12px);
+  left: calc(var(--navWidth) + 12px); height:100%;
+  background-image: linear-gradient(transparent, var(--theme));
+  backdrop-filter: blur(10px);
+  display:none;
+}
+#mailContainer.active{
+  display:block;
+}
+
+.mailWrapper{
+  display:grid;
+  grid-template-rows: 42px min-content auto;
+  width:100%;height:100%;
+}
+
+#mailContent{
+  background-color:rgba(0,0,0,0.1);
+  border-radius:15px;
+  height:100%;
+  margin-top:5%;
+}

@@ -1,0 +1,155 @@
+#container > nav{
+  background:linear-gradient(0deg, var(--navColor), var(--navColor),#0c5489 117%);
+  padding-block:15px;
+}
+#container > nav > span > span{
+  scale:1.2;
+  cursor:pointer;
+  width:100%;
+  font-size:2rem;
+}
+#container > nav > span > span:active{
+  scale: 0.98;
+}
+
+#container > header{
+  padding-left:25px;
+}
+
+#container > aside{
+  font-size:.9rem;
+  overflow: hidden;
+}
+
+.operationDiv{
+  position:relative;
+  font-size: clamp(1rem,2.2vw, 1.8rem);
+  font-weight: 700;
+  padding:5px;
+  padding-inline:7px;
+  display: flex;
+  flex-direction: column-reverse;
+  cursor:pointer;
+  color:var(--fontColor);
+  font-weight: 200;
+  overflow-wrap: break-word;
+}
+.operationDiv:hover{
+  box-shadow: 0 0 0 4px var(--theme2), 0 0 0 6px white;
+}
+
+.operationDiv .icon{
+  position:absolute;
+  top:10px;right:10px;
+  font-size:1.2rem;
+  color: white;
+}
+
+.sectionSelect input[type='radio']{display:none;}
+.sectionSelect label{
+  font-family:monospace;
+  font-size:var(--fontSize);
+  display: inline-block;
+  aspect-ratio: 1/1;
+  width: 2rem;
+}
+.sectionSelect input[type='radio']:checked + label{
+  text-decoration: underline;
+  color: black;
+}
+
+.bell.active{
+  --d: 2px;
+  --col: black;
+  text-shadow: calc( 1 * var(--d) ) calc( 1 * var(--d) ) 0 var(--col), 
+              calc( 1 * var(--d) ) calc( -1 * var(--d) ) 0 var(--col),
+              calc( -1 * var(--d) ) calc( 1 * var(--d) ) 0 var(--col),
+              calc( -1 * var(--d) ) calc( -1 * var(--d) ) 0 var(--col);
+  
+  -webkit-text-stroke: var(--d) var(--col);
+}
+/* .bgOutline {
+  position:absolute;
+  z-index:0;
+  transform: scale(1.1);
+  color:black;
+} */
+
+
+
+
+
+td,
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+/*   width: 33%; */
+}
+td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+  margin-top:10px;
+}
+
+td button{
+  padding:4px;
+  background:none;
+  outline:none;
+  border:none;
+  color:white;
+  font-size:1rem;
+}
+#createUserForm table{
+  border:none;
+}
+#createUserForm td,#createUserForm th{
+  border:none;
+  padding:1px;
+}
+
+select{color: var(--placeholderColor);}
+
+#createUserForm input,#createUserForm select{
+  outline:none;
+  border-radius:5px;
+  padding:5px;
+  font-size:1rem;
+  margin-block:3px;
+  width: 90%;
+  
+    background: transparent;
+    border: 1px solid white;
+    border-bottom: 3px solid white;
+    color: #dcdcdc;
+}
+
+.cls-1{
+  fill: #ffffff !important;
+}
+
+select option {
+  background: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+#createUserForm label{
+  font-size:1rem;
+}
+.imp{
+  color:rgb(255,0,0);
+}
+
+#resetPasswordForm input,#resetPasswordForm button{
+  font-size:1.2rem;
+  padding:5px 10px;
+  margin-block:3px;
+  border-radius:20px;
+  outline:none;
+}

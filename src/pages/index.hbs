@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  {{> head }}
+  <title>{{seo.title}}</title>
+  
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/layout.css" />
+  <link rel="stylesheet" href="/css/design.css" />
+  
+  <script>function $(x){return document.querySelector(x);}</script>
+
+  <script defer src="/js/app.js"></script>
+  
+<style>
+
+</style>
+</head>
+<body>
+
+  <div id="container">
+  
+      {{> nav }}
+    
+      {{> profile }}
+    
+      <header>
+        <b style="font-size: 1.5em;display:block;">DASHBOARD</b>
+        <p style="font-size: 0.7em;letter-spacing: 0px;font-weight: 200;font-family: system-ui;line-height: 0.5;padding-bottom:5px;">AMRITA CLASSROOM GUIDE</p>
+      </header>
+    
+      <main>
+        <article>
+          
+          {{#each operations}}
+              <div class="operationDiv noSelect" onclick="{{this.function}}">
+                  <span class="icon material-symbols-outlined">expand_content</span>
+                {{this.title}}
+              </div>
+          {{/each}}
+          
+        </article>
+        <section class="noSelect">
+        
+          <div>
+            <h2 style="padding-bottom:10px;">Annoucements</h2>
+            <h3 style="color:#a0f0f1;">
+              <span style="color:rgb(7 197 199);"> Om Amriteswaryai Namah </span><br>
+              “Always keep a positive attitude towards life. Optimism is a great tool to eliminate agony from life.”
+            </h3>
+            <p>
+                Chancellor, 
+              Sri Mata Amritanandamayi Devi
+            </p>
+            <h3 style="padding-top:30px;">Academic Calendar</h3>
+            <p style="width:100%;height: 300px;overflow: auto;" class="myScrollbar">
+              <img src="https://cdn.glitch.global/13adfb5b-b8cd-4367-a6c4-4deb15b4aee7/calendar.png?v=1685344160871" style="width:100%;">
+            </p>
+          </div>
+          
+        </section>
+        
+        {{> display }}
+        
+      </main>
+    
+    
+      {{> mail }}
+  </div>
+  
+    {{> passwordReset }}
+  
+  
+</body>
+  
+    <script defer src="{{opScript}}"></script>
+  
+</html>

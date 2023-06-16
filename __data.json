@@ -1,0 +1,2534 @@
+{
+    "details": {
+      "day_order_inside_timetable_obj": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+      "slots_count": 8,
+      "removed_lunch_slot": true
+    },
+    "table": [
+      {
+        "classroom": "C203",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE435",
+                    "course_name": "Computer Vision",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Dr.Padmavathi.S"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Harini N."
+                },
+                "slot3": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr. Jeyakumar G / Dr. M.C. Shunmuga Priya"
+                },
+                "slot4": {
+                    "course_id": "19CSE434",
+                    "course_name": "Image and Video Analysis",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Dr. Aarthi. R (Co-Teaching with Dr. Narayanan Kutty)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem- A",
+                    "faculty": "Ms. K Nalinadevi/Dr.Raghesh Krishnan K"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem- A",
+                    "faculty": "Dr. G Jeyakumar/Dr. M C Shunmuga Priya, Dr. T Senthil Kumar"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem- A",
+                    "faculty": "Dr. G Jeyakumar/Dr. M C Shunmuga Priya, Dr. T Senthil Kumar"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Swapna T.R."
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr. Jeyakumar G / Dr. M.C. Shunmuga Priya"
+                },
+                "slot3": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - A",
+                    "faculty": "Dr. C Arun Kumar,Dr. R Aarthi,Ms. G R Ramya"
+                },
+                "slot4": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - A",
+                    "faculty": "Dr. C Arun Kumar,Dr. R Aarthi,Ms. G R Ramya"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "19CSE435",
+                    "course_name": "Computer Vision",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Dr.Padmavathi.S"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Arunkumar. C"
+                },
+                "slot7": {
+                    "course_id": "19CSE434",
+                    "course_name": "Image and Video Analysis Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective II",
+                    "faculty": "Dr. R Aarthi,Ms. R Manjusha,Ms. R Sujee"
+                },
+                "slot8": {
+                    "course_id": "19CSE434",
+                    "course_name": "Image and Video Analysis Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective II",
+                    "faculty": "Dr. R Aarthi,Ms. R Manjusha,Ms. R Sujee"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Harini N."
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr. Jeyakumar G / Dr. M.C. Shunmuga Priya"
+                },
+                "slot3": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  A",
+                    "faculty": "Dr. T R Swapna,Mr. A Baskar,Ms. G Radhika"
+                },
+                "slot4": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  A",
+                    "faculty": "Dr. T R Swapna,Mr. A Baskar,Ms. G Radhika"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE435",
+                    "course_name": "Computer Vision",
+                    "section": "B.Tech - CSE - VI Sem - Elective III",
+                    "faculty": "Dr.Padmavathi.S"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Harini N."
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "19CSE434",
+                    "course_name": "Image and Video Analysis",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Dr. Aarthi. R (Co-Teaching with Dr. Narayanan Kutty)"
+                },
+                "slot4": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Arunkumar. C"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - A",
+                    "faculty": "Dr.Swapna T.R."
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      },
+      {
+        "classroom": "C103",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Ms.G.R.Ramya (G2)"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.Raghesh Krishnan K"
+                },
+                "slot3": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.Lalithamani N"
+                },
+                "slot4": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Ms. Neethu M R (G2)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr. P. Bagavathi Sivakumar"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  B",
+                    "faculty": "Dr. Remya Krishnan P,Mr. A K Sumesh,Dr. Pooja Mishra"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  B",
+                    "faculty": "Dr. Remya Krishnan P,Mr. A K Sumesh,Dr. Pooja Mishra"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr. Remya Krishnan"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.M. Senthilkumar"
+                },
+                "slot3": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.Lalithamani N"
+                },
+                "slot4": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - B",
+                    "faculty": "Dr. N Lalithamani,Dr. N Radhika,Dr. N Harini"
+                },
+                "slot7": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - B",
+                    "faculty": "Dr. N Lalithamani,Dr. N Radhika,Dr. N Harini"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "22.02.2023",
+                    "course_name": "M.Tech Review C103 (NL)",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "22.02.2023",
+                    "course_name": "M.Tech Review C103 (NL)",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Ms.G.R.Ramya (G2)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr. Remya Krishnan"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - Elective II",
+                    "faculty": "Ms. Neethu M R (G2)"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  B",
+                    "faculty": "Dr. Raghesh Krishnan K,Dr. S Padmavathi,Ms. Anupa Vijai"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  B",
+                    "faculty": "Dr. Raghesh Krishnan K,Dr. S Padmavathi,Ms. Anupa Vijai"
+                },
+                "slot3": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Ms. K Abirami"
+                },
+                "slot4": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.M. Senthilkumar"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - Elective III",
+                    "faculty": "Ms.G.R.Ramya (G2)"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.Raghesh Krishnan K"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr.M. Senthilkumar"
+                },
+                "slot3": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Ms. Neethu M R (G2)"
+                },
+                "slot4": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - B",
+                    "faculty": "Dr. Remya Krishnan"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      },
+      {
+        "classroom": "C104",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning",
+                    "section": "B.Tech CSE - VI Sem - Elective III",
+                    "faculty": "Dr. R. Arumuga Arun  (G2)"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.K.P. Jevitha"
+                },
+                "slot3": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms. G Radhika"
+                },
+                "slot4": {
+                    "course_id": "19CSE352",
+                    "course_name": "Business Analytics",
+                    "section": "B.Tech CSE - VI Sem - Elective II",
+                    "faculty": "Dr.(Col)P.N.Kumar"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Dr. V Anantha Narayanan"
+                },
+                "slot6": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms. G Radhika,Dr. R Aarthi,Ms. Neethu M R"
+                },
+                "slot7": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms. G Radhika,Dr. R Aarthi,Ms. Neethu M R"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Dr. N Radhika"
+                },
+                "slot3": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms. G Radhika"
+                },
+                "slot4": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.Shanmuga Priya. S / Dr. M.C. Shunmuga Priya"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.K.P. Jevitha"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  C",
+                    "faculty": "Ms. S Shanmuga Priya /Dr. M C Shunmuga Priya,Ms. Vidhya S"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  C",
+                    "faculty": "Ms. S Shanmuga Priya /Dr. M C Shunmuga Priya,Ms. Vidhya S"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms. G Radhika"
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.K.P. Jevitha"
+                },
+                "slot4": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning",
+                    "section": "B.Tech CSE - VI Sem - Elective III",
+                    "faculty": "Dr. R. Arumuga Arun  (G2)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE352",
+                    "course_name": "Business Analytics",
+                    "section": "B.Tech CSE - VI Sem - Elective II",
+                    "faculty": "Dr.(Col)P.N.Kumar"
+                },
+                "slot8": {
+                    "course_id": "19CSE352",
+                    "course_name": "Business Analytics",
+                    "section": "B.Tech CSE - VI Sem - Elective II",
+                    "faculty": "Dr.(Col)P.N.Kumar"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.Shanmuga Priya. S / Dr. M.C. Shunmuga Priya"
+                },
+                "slot7": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective III Group2",
+                    "faculty": "Dr. R Arumuga Arun,Dr. C Bagavathi,Ms. Pooja Mishra"
+                },
+                "slot8": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective III Group2",
+                    "faculty": "Dr. R Arumuga Arun,Dr. C Bagavathi,Ms. Pooja Mishra"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Ms.Shanmuga Priya. S / Dr. M.C. Shunmuga Priya"
+                },
+                "slot3": {
+                    "course_id": "19CSE352",
+                    "course_name": "Business Analytics",
+                    "section": "B.Tech CSE - VI Sem - Elective II",
+                    "faculty": "Dr.(Col)P.N.Kumar"
+                },
+                "slot4": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - C",
+                    "faculty": "Dr. N Radhika"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - C",
+                    "faculty": "Dr. N Radhika,Dr. J Govindarajan,Mr. J. Guru Prakash"
+                },
+                "slot7": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - C",
+                    "faculty": "Dr. N Radhika,Dr. J Govindarajan,Mr. J. Guru Prakash"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      },
+      {
+        "classroom": "A102",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Dr. M Anbazhagan (G1)"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr.C.Shunmuga Velayutham"
+                },
+                "slot3": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. S Shanmuga Priya"
+                },
+                "slot4": {
+                    "course_id": "19CSE446",
+                    "course_name": "Internet of Things",
+                    "section": "B.Tech- CSE- VI sem - Elective II",
+                    "faculty": "Ms.Nalinadevi K. (G2)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. N Radhika (Co-Teaching with Dr. C. Arunkumar)"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. S Shanmuga Priya,Dr. T Gireesh Kumar,Dr. B A Sabarish"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. S Shanmuga Priya,Dr. T Gireesh Kumar,Dr. B A Sabarish"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. C Shunmuga Velayutham,Dr. S Padmavathi,Mr. Nakeeran M"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. C Shunmuga Velayutham,Dr. S Padmavathi,Mr. Nakeeran M"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. Ritwik.M"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. N Radhika /Dr. C. Arun Kumar,Dr. T Senthil Kumar"
+                },
+                "slot2": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. N Radhika /Dr. C. Arun Kumar,Dr. T Senthil Kumar"
+                },
+                "slot3": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. Dhanya M Dhanalakshmy,Mr. A Baskar"
+                },
+                "slot4": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Dr. M Anbazhagan (G1)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. S Shanmuga Priya"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. Ritwik.M"
+                },
+                "slot6": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. N Radhika (Co-Teaching with Dr. C. Arunkumar)"
+                },
+                "slot7": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective III Group 1",
+                    "faculty": "Dr. M Anbazhagan,Ms. D Bharathi,Ms. R Sujee"
+                },
+                "slot8": {
+                    "course_id": "19CSE456",
+                    "course_name": "Neural Networks and Deep Learning Lab",
+                    "section": "B.Tech - CSE - VI Sem -  Elective III Group 1",
+                    "faculty": "Dr. M Anbazhagan,Ms. D Bharathi,Ms. R Sujee"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr.C.Shunmuga Velayutham"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Dr. Ritwik.M"
+                },
+                "slot3": {
+                    "course_id": "19CSE446",
+                    "course_name": "Internet of Things",
+                    "section": "B.Tech- CSE- VI sem - Elective II",
+                    "faculty": "Ms.Nalinadevi K. (G2)"
+                },
+                "slot4": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - D",
+                    "faculty": "Ms. S Shanmuga Priya"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      },
+      {
+        "classroom": "C102",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Mr.Dayanand V (G1)"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. Neethu M R"
+                },
+                "slot3": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr.R.Karthi"
+                },
+                "slot4": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Dr.Pooja Mishra (G1)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -   E",
+                    "faculty": "Ms. D Bharathi,Dr. R Gowtham,Ms. Deepika T"
+                },
+                "slot7": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -   E",
+                    "faculty": "Ms. D Bharathi,Dr. R Gowtham,Ms. Deepika T"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr. Sabarish. B. A"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. D Bharathi"
+                },
+                "slot3": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. Neethu M R"
+                },
+                "slot4": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. Bindu K R ,Ms. R R Sathiya"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr. R Karthi,Dr. G Jeya Kumar,Dr. M Senthilkumar"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr. R Karthi,Dr. G Jeya Kumar,Dr. M Senthilkumar"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. Neethu M R"
+                },
+                "slot2": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr. Sabarish. B. A"
+                },
+                "slot3": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Ms. D Bharathi"
+                },
+                "slot4": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Mr.Dayanand V (G1)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Dr.Pooja Mishra (G1)"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - E",
+                    "faculty": "Dr. B A Sabarish,Ms. S Shanmuga Priya,Ms. P Malathi"
+                },
+                "slot2": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech CSE- VI Sem - E",
+                    "faculty": "Dr. B A Sabarish,Ms. S Shanmuga Priya,Ms. P Malathi"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr.R.Karthi"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE356",
+                    "course_name": "Social Network Analytics",
+                    "section": "B.Tech - CSE - VI Sem - PE III",
+                    "faculty": "Mr.Dayanand V (G1)"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem - E",
+                    "faculty": "Dr.R.Karthi"
+                },
+                "slot3": {
+                    "course_id": "19CSE332",
+                    "course_name": "Information Security",
+                    "section": "B.Tech - CSE - VI Sem - PE II",
+                    "faculty": "Dr.Pooja Mishra (G1)"
+                },
+                "slot4": {
+                    "course_id": "24.02.2023",
+                    "course_name": "M.Tech  Project Review",
+                    "section": "TRS",
+                    "faculty": "None"
+                },
+                "lunch": {
+                    "course_id": "24.02.2023",
+                    "course_name": "M.Tech  Project Review",
+                    "section": "TRS",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "24.02.2023",
+                    "course_name": "M.Tech  Project Review",
+                    "section": "TRS",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      },
+      {
+        "classroom": "A104",
+        "timetable": [
+            {
+                "slot1": {
+                    "course_id": "19CSE441",
+                    "course_name": "Introduction to Cyber-Physical Systems",
+                    "section": "B.Tech- CSE- VI sem - Elective III",
+                    "faculty": "Dr. Vidhya Balasubramanian (Co-Teaching with Dr. Vijay Kumar Sundar)"
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. Vidhya S"
+                },
+                "slot3": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. D Bharathi"
+                },
+                "slot4": {
+                    "course_id": "19CSE446",
+                    "course_name": "Internet of Things",
+                    "section": "B.Tech- CSE- VI sem - Elective II",
+                    "faculty": "Dr.Anantha Narayanan. (Co-Teaching with Dr. K.V. Sriram) (G1)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. Vidhya S,Dr. R Karthi,Mr. V Dayanand"
+                },
+                "slot7": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems Lab",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. Vidhya S,Dr. R Karthi,Mr. V Dayanand"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. Vidhya S"
+                },
+                "slot2": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Dr.Gireesh Kumar T"
+                },
+                "slot3": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Mr. J. Guru Prakash,Dr. T Senthil Kumar,Ms. R Sujee"
+                },
+                "slot4": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering Lab",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Mr. J. Guru Prakash,Dr. T Senthil Kumar,Ms. R Sujee"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. D Bharathi"
+                },
+                "slot2": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot3": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Dr.Gireesh Kumar T"
+                },
+                "slot4": {
+                    "course_id": "19CSE441",
+                    "course_name": "Introduction to Cyber-Physical Systems",
+                    "section": "B.Tech- CSE- VI sem - Elective III",
+                    "faculty": "Dr. Vidhya Balasubramanian (Co-Teaching with Dr. Vijay Kumar Sundar)"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "Mentoring",
+                    "course_name": "Mentoring",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Ms G R Ramya ,Ms. Vidhya S"
+                },
+                "slot6": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Mr.Guru Prakash J"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. D Bharathi,Dr. R Aarthi,Ms. Anisha Radhakrishnan"
+                },
+                "slot2": {
+                    "course_id": "19CSE313",
+                    "course_name": "Principles of Programming Languages Lab",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. D Bharathi,Dr. R Aarthi,Ms. Anisha Radhakrishnan"
+                },
+                "slot3": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot4": {
+                    "course_id": "19CSE311",
+                    "course_name": "Computer Security",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Dr.Gireesh Kumar T"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "19CSE441",
+                    "course_name": "Introduction to Cyber-Physical Systems",
+                    "section": "B.Tech- CSE- VI sem - Elective III",
+                    "faculty": "Dr. Vidhya Balasubramanian (Co-Teaching with Dr. Vijay Kumar Sundar)"
+                },
+                "slot8": {
+                    "course_id": "19CSE441",
+                    "course_name": "Introduction to Cyber-Physical Systems",
+                    "section": "B.Tech- CSE- VI sem - Elective III",
+                    "faculty": "Dr. Vidhya Balasubramanian (Co-Teaching with Dr. Vijay Kumar Sundar)"
+                }
+            },
+            {
+                "slot1": {
+                    "course_id": "19CSE314",
+                    "course_name": "Software Engineering",
+                    "section": "B.Tech - CSE - VI Sem - F",
+                    "faculty": "Mr.Guru Prakash J"
+                },
+                "slot2": {
+                    "course_id": "19CSE312",
+                    "course_name": "Distributed Systems",
+                    "section": "B.Tech - CSE - VI Sem -  F",
+                    "faculty": "Ms. Vidhya S"
+                },
+                "slot3": {
+                    "course_id": "19CSE446",
+                    "course_name": "Internet of Things",
+                    "section": "B.Tech- CSE- VI sem - Elective II",
+                    "faculty": "Dr.Anantha Narayanan. (Co-Teaching with Dr. K.V. Sriram) (G1)"
+                },
+                "slot4": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "lunch": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot5": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot6": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot7": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                },
+                "slot8": {
+                    "course_id": "None",
+                    "course_name": "None",
+                    "section": "None",
+                    "faculty": "None"
+                }
+            }
+        ]
+      }
+    ],
+  
+    "table2":[
+      
+        {
+            "section": "A",
+            "timetable":[
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "19CSE312"
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313"
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot4": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot5": {
+                    "course_id": "19CSE314"
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "CIR"
+                },
+                "slot2": {
+                    "course_id": "CIR"
+                },
+                "slot3": {
+                    "course_id": "CIR"
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE311"
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot4": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE311"
+                },
+                "slot2": {
+                    "course_id": ""
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": "19CSE314"
+                },
+                "slot5": {
+                    "course_id": "19CSE313"
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+            ]
+        },
+        {
+            "section": "B",
+            "timetable":[
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE313"
+                },
+                "slot3": {
+                    "course_id": "19CSE314"
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE312"
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "19CSE314"
+                },
+                "slot4": {
+                    "course_id": "19CSE313"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "CIR"
+                },
+                "slot2": {
+                    "course_id": "CIR"
+                },
+                "slot3": {
+                    "course_id": "CIR"
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": "19CSE312"
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot2": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "19CSE311"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313"
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": "19CSE312"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+            ]
+        },
+        {
+            "section": "C",
+            "timetable": [
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": ""
+                },
+                "slot2": {
+                    "course_id": "19CSE314"
+                },
+                "slot3": {
+                    "course_id": "19CSE313"
+                },
+                "slot4": {
+                    "course_id": "19CSE312"
+                },
+                "slot5": {
+                    "course_id": "19CSE311"
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313"
+                },
+                "slot2": {
+                    "course_id": ""
+                },
+                "slot3": {
+                    "course_id": "19CSE311"
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "CIR"
+                },
+                "slot2": {
+                    "course_id": "CIR"
+                },
+                "slot3": {
+                    "course_id": "CIR"
+                },
+                "slot4": {
+                    "course_id": ""
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312"
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": ""
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": "19CSE314"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+          ]
+        },
+        {
+            "section": "D",
+            "timetable": [
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE313"
+                },
+                "slot3": {
+                    "course_id": "19CSE312"
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": "19CSE314"
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot2": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "19CSE311"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot2": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312"
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "CIR"
+                },
+                "slot2": {
+                    "course_id": "CIR"
+                },
+                "slot3": {
+                    "course_id": "CIR"
+                },
+                "slot4": {
+                    "course_id": ""
+                },
+                "slot5": {
+                    "course_id": "19CSE311"
+                },
+                "slot6": {
+                    "course_id": "19CSE314"
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313"
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": "19CSE312"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+          ]
+        },
+        {
+            "section": "E",
+            "timetable": [
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "19CSE312"
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE314"
+                },
+                "slot2": {
+                    "course_id": "19CSE313"
+                },
+                "slot3": {
+                    "course_id": "19CSE311"
+                },
+                "slot4": {
+                    "course_id": ""
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE311"
+                },
+                "slot2": {
+                    "course_id": "19CSE314"
+                },
+                "slot3": {
+                    "course_id": "19CSE313"
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot2": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "19CSE312"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": ""
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": ""
+                },
+                "slot5": {
+                    "course_id": "CIR"
+                },
+                "slot6": {
+                    "course_id": "CIR"
+                },
+                "slot7": {
+                    "course_id": "CIR"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+          ]
+        },
+        {
+            "section": "F",
+            "timetable":[
+                {
+                "slot1": {
+                    "course_id": "PE III "
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "19CSE313"
+                },
+                "slot4": {
+                    "course_id": "PE II"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot7": {
+                    "course_id": "19CSE312-LAB"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE312"
+                },
+                "slot2": {
+                    "course_id": "19CSE311"
+                },
+                "slot3": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot4": {
+                    "course_id": "19CSE314-LAB"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": ""
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313"
+                },
+                "slot2": {
+                    "course_id": ""
+                },
+                "slot3": {
+                    "course_id": "19CSE311"
+                },
+                "slot4": {
+                    "course_id": "PE III "
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": "19CSE314"
+                },
+                "slot7": {
+                    "course_id": "PE II"
+                },
+                "slot8": {
+                    "course_id": "PE II"
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot2": {
+                    "course_id": "19CSE313-LAB"
+                },
+                "slot3": {
+                    "course_id": ""
+                },
+                "slot4": {
+                    "course_id": "19CSE311"
+                },
+                "slot5": {
+                    "course_id": ""
+                },
+                "slot6": {
+                    "course_id": ""
+                },
+                "slot7": {
+                    "course_id": "PE III "
+                },
+                "slot8": {
+                    "course_id": "PE III "
+                }
+            },
+                {
+                "slot1": {
+                    "course_id": "19CSE314"
+                },
+                "slot2": {
+                    "course_id": "19CSE312"
+                },
+                "slot3": {
+                    "course_id": "PE II"
+                },
+                "slot4": {
+                    "course_id": ""
+                },
+                "slot5": {
+                    "course_id": "CIR"
+                },
+                "slot6": {
+                    "course_id": "CIR"
+                },
+                "slot7": {
+                    "course_id": "CIR"
+                },
+                "slot8": {
+                    "course_id": ""
+                }
+            }
+          ]
+        }
+      
+    ]
+}
